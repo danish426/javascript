@@ -243,6 +243,7 @@ for(var x=7;x>0;x--){
     document.write('<br>');
 }*/
 
+/*
 function calculate(sign,num1,num2){
     if(sign == '+'){
         return add(num1,num2)
@@ -258,4 +259,4 @@ function subtract(num1,num2){
     return num1-num2;
 }
 var result = calculate('-',5,9);
-console.log(result);
+console.log(result);*/
